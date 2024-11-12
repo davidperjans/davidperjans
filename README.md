@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is David and I'm soon to be C# .NET Developer, from Sweden.</p>
+<p align="left">My name is David and I'm soon to be Full-stack Developer, from Sweden.</p>
 
 ###
 
